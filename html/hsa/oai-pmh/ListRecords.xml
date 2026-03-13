@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-12-22T15:18:01Z</responseDate>
+    <request verb="ListRecords" metadataPrefix="oai_dc">
+        https://acdh-oeaw.github.io/corpus-search-static-sources
+    </request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>o:hsa.letter.2452/</identifier>
+                <datestamp>2025-12-22</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Auguste Etcheverry an Hugo Schuchardt (02-02781)</dc:title>
+                    <dc:type>Text</dc:type>
+                    <dc:identifier>https://gams.uni-graz.at/o:hsa.letter.2452/TEI_SOURCE</dc:identifier>
+                    <dc:language>eu</dc:language>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>o:hsa.letter.4124</identifier>
+                <datestamp>2025-12-22</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hugo Schuchardt an José Leite de Vasconcelos (16-20844)</dc:title>
+                    <dc:type>Text</dc:type>
+                    <dc:identifier>https://gams.uni-graz.at/o:hsa.letter.4124/TEI_SOURCE</dc:identifier>
+                    <dc:language>pt</dc:language>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>o:hsa.letter.10829</identifier>
+                <datestamp>2025-12-22</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                    xmlns:dc="http://purl.org/dc/elements/1.1/"
+                    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hugo Schuchardt an John Rhys (06-A1.1.5)</dc:title>
+                    <dc:type>Text</dc:type>
+                    <dc:identifier>https://gams.uni-graz.at/o:hsa.letter.10829/TEI_SOURCE</dc:identifier>
+                    <dc:language>cy</dc:language>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+    </ListRecords>
+
+</OAI-PMH>
