@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 mrp.xml
+Identify.xml
+html/index.html
