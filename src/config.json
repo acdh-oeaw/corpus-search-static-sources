@@ -1,0 +1,10 @@
+{
+    "hsa": {
+        "title": "Hugo Schuchardt Archiv",
+        "base_url": "https://gams.uni-graz.at/context:hsa"
+    },
+    "mrp": {
+        "title": " Die Ministerratsprotokolle Österreichs und der österreichisch-ungarischen Monarchie 1848–1918",
+        "base_url": "https://mrp.oeaw.ac.at/"
+    }
+}
